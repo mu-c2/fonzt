@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Nwl2';
+    src: url('Nwl2Light-Regular.woff2') format('woff2'),
+        url('Nwl2Light-Regular.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nwl2';
+    src: url('Nwl2-Regular.woff2') format('woff2'),
+        url('Nwl2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nwl2';
+    src: url('Nwl2Bold-Regular.woff2') format('woff2'),
+        url('Nwl2Bold-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
